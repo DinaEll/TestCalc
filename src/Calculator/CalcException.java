@@ -2,7 +2,7 @@ package Calculator;
 
 public class CalcException extends Exception {
     public CalcException() {
-        System.out.println("Ошибка. Сейчас еноты расскажут вам, в чем проблема:");
+        System.out.println("Error. Now the raccoons will tell you what the problem is:");
     }
 
     public CalcException(String message) {

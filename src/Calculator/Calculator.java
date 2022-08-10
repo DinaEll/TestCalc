@@ -7,13 +7,13 @@ public class Calculator {
 
     public static void main(String[] args) {
         try{
-            System.out.println("Введите выражение:");
+            System.out.println("Enter an expression:");
             BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
             String string = br.readLine();
 
-            Calc calc = new Calc();
+            CalcTest calc = new CalcTest();
             String result = calc.result(string);
-            System.out.println("Результат: " + result);
+            System.out.println("Result: " + result);
         }
         catch(Exception e){
         }

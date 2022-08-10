@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c6b1d44-ab37-4b39-b121-a212ea7a0dcc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="6c6b1d44-ab37-4b39-b121-a212ea7a0dcc" name="Changes" comment="Add commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculator/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculator/CalcTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculator/CalcException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculator/CalcException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculator/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Projects/untitled1",
+    "last_opened_file_path": "C:/Projects/TestCalc",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -46,7 +48,7 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="Calculator.Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculator.Calculator" />
       <module name="TestCalc" />
       <extension name="coverage">
@@ -76,7 +78,16 @@
       <workItem from="1659978213628" duration="6685000" />
       <workItem from="1660043942259" duration="2133000" />
       <workItem from="1660066301055" duration="26000" />
+      <workItem from="1660142828744" duration="300000" />
     </task>
+    <task id="LOCAL-00001" summary="Add commit">
+      <created>1660142928998</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660142928998</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,5 +103,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add commit" />
   </component>
 </project>
