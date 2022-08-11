@@ -13,7 +13,7 @@ public class Calculator {
 
             CalcTest calc = new CalcTest();
             String result = calc.result(string);
-            System.out.println("Result: " + result);
+            System.out.println("Result: \n" + result);
         }
         catch(Exception e){
         }
